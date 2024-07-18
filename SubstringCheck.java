@@ -1,5 +1,7 @@
-public class SubstringCheck {
-    public static void main(String[] args) 
+
+public class SubstringCheck 
+{
+	public static void main(String[] args) 
     {
      
         String String1 = "Java Programming";
